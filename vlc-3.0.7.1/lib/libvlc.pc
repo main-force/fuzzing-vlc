@@ -1,0 +1,11 @@
+prefix=/root/fuzzing_vlc/vlc-3.0.7.1/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: LibVLC control API
+Description: VLC media player external control library
+Version: 3.0.7.1
+Cflags: -I${includedir}
+Libs: -L${libdir} -lvlc
+Libs.private: -lvlccore 

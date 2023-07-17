@@ -1,0 +1,2 @@
+#! /bin/sh
+exec /root/fuzzing_vlc/vlc-3.0.7.1/install/bin/vlc -I "ncurses" "$@"

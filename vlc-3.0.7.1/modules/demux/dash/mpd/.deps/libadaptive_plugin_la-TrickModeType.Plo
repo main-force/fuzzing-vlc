@@ -1,0 +1,43 @@
+demux/dash/mpd/libadaptive_plugin_la-TrickModeType.lo: \
+  /usr/lib/llvm-14/lib/clang/14.0.6/share/asan_ignorelist.txt \
+  demux/dash/mpd/TrickModeType.cpp ../config.h ../include/vlc_fixups.h \
+  /usr/include/features.h /usr/include/features-time64.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/bits/timesize.h \
+  /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/bits/long-double.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /usr/lib/llvm-14/lib/clang/14.0.6/include/stddef.h \
+  /usr/lib/llvm-14/lib/clang/14.0.6/include/__stddef_max_align_t.h \
+  demux/dash/mpd/TrickModeType.h
+
+/usr/lib/llvm-14/lib/clang/14.0.6/share/asan_ignorelist.txt:
+
+../config.h:
+
+../include/vlc_fixups.h:
+
+/usr/include/features.h:
+
+/usr/include/features-time64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/bits/timesize.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/long-double.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/lib/llvm-14/lib/clang/14.0.6/include/stddef.h:
+
+/usr/lib/llvm-14/lib/clang/14.0.6/include/__stddef_max_align_t.h:
+
+demux/dash/mpd/TrickModeType.h:
